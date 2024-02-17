@@ -1,4 +1,4 @@
-# Beans to Bytes 🌱
+# Beans to Bytes 🌱: A Scikit Learn Adventure
 ## Leveraging Technology for Agriculture Innovation
 ### Introduction
 Beans are a vital staple for over 400 million people worldwide, making a significant impact on global agriculture. Beanalytics LLC, a Silicon Valley tech company, aims to revolutionize bean farming through advanced technology. With a vision to optimize cultivation processes, Beanalytics employs machine learning algorithms to understand and categorize bean varieties, paving the way for unprecedented advancements in agricultural innovation.
