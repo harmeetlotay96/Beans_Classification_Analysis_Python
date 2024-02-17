@@ -9,5 +9,6 @@ Objective: Implement unsupervised clustering to categorize bean varieties.
 Insights: Revealed through visualizations including boxplots, scatter plots, and percentage distribution of classes.
 Feature Selection: Utilized Principal Component Analysis (PCA) to reduce dimensionality.
 Clustering Accuracy: Achieved clustering accuracy ranging from 82% to 99%.
+
 ###Conclusion
 By leveraging machine learning techniques, we've made significant strides in understanding and categorizing bean varieties. Through feature selection, PCA, and K-Means clustering, we've laid the groundwork for optimizing bean cultivation processes. Moving forward, our aim is to refine models and explore more advanced algorithms to further enhance classification accuracy and drive innovation in agriculture. 🚀
